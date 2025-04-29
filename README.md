@@ -20,7 +20,7 @@ A Streamlit-based web application for detecting and classifying agricultural pes
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pest-detection-webapp.git
+   git clone https://github.com/Hemanth11062005/Mini-Project.git
    cd pest-detection-webapp
    ```
 
